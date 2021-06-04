@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/PR-SVG-20010719/DTD/svg10.dtd">
+<svg width="65cm" height="12cm" viewBox="-1542 -41 1300 240" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="Background">
+    <g>
+      <rect style="fill: #ffe5d3; fill-opacity: 1; stroke-opacity: 0; stroke-width: 2; stroke: #000000" x="-1240" y="25.351" width="125.2" height="31.8778" rx="0" ry="0"/>
+      <text font-size="7.90222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1177.4" y="43.686">
+        <tspan x="-1177.4" y="43.686">ADD MISSING PARTY DATA</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-1477.08" y="40.33" width="174.25" height="47.0412" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1389.95" y="67.7318">
+        <tspan x="-1389.95" y="67.7318">Wikipedia Election Data</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1179.65" y="-94.2962">
+      <tspan x="-1179.65" y="-94.2962"></tspan>
+    </text>
+    <g>
+      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #2f2f2f" x="-1475.7" y="-39.2692" width="237.25" height="46.2492" rx="0" ry="0"/>
+      <text font-size="6.77333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1357.07" y="-14.0908">
+        <tspan x="-1357.07" y="-14.0908">www.wikipedia.org/wiki/List_of_MPs_elected_in_{year}_election</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #a4eed1; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-1343.36" y="91.1426" width="40.1726" height="30.4667" rx="0" ry="0"/>
+      <text font-size="6.77333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1323.27" y="108.43">
+        <tspan x="-1323.27" y="108.43">.tsv</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffe674; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #2f2f2f" x="-1476.63" y="91.115" width="128.651" height="30.4667" rx="0" ry="0"/>
+      <text font-size="6.77333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1412.31" y="108.402">
+        <tspan x="-1412.31" y="108.402">NAME | CONSTITUENCY | PARTY</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1412.31" y="106.348">
+      <tspan x="-1412.31" y="106.348"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #3d3d3d; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1541.32" y="28.0666">
+      <tspan x="-1541.32" y="28.0666">PARSE</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-1036.42" y="40.232" width="271.372" height="47.0412" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-900.736" y="67.6338">
+        <tspan x="-900.736" y="67.6338">Wikidata Parliam. Period Data</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #7ce4bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-803.64" y="93.6952" width="39.0359" height="30.4667" rx="0" ry="0"/>
+      <text font-size="6.77333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-784.122" y="110.982">
+        <tspan x="-784.122" y="110.982">.tsv</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffe674; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #2f2f2f" x="-1036.8" y="93.517" width="228.5" height="30.4667" rx="0" ry="0"/>
+      <text font-size="6.77333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-922.552" y="110.804">
+        <tspan x="-922.552" y="110.804">NAME | REF | PARTY | START | END  | CONSTITUENCY | CAUSE</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-922.552" y="108.75">
+      <tspan x="-922.552" y="108.75"></tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M -1475.7,-16.1445 A 50.0049,50.0049 0 0 0 -1483.94,57.2687"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-1478.72,62.481 -1489.69,60.3086 -1484.65,57.8874 -1483.56,52.4038 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-900.736" y="63.7526">
+      <tspan x="-900.736" y="63.7526"></tspan>
+    </text>
+    <g>
+      <rect style="fill: #bfbfbf; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #2f2f2f" x="-1038.1" y="151.822" width="240.75" height="46.2492" rx="0" ry="0"/>
+      <text font-size="6.77333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-917.729" y="177.001">
+        <tspan x="-917.729" y="177.001">https://query.wikidata.org/Q....</tspan>
+      </text>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" d="M -797.354,174.947 A 62.6311,62.6311 0 0 0 -757.998,70.3383"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-763.303,65.1483 -752.369,67.4838 -757.443,69.8297 -758.611,75.2966 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-900.736" y="63.7526">
+      <tspan x="-900.736" y="63.7526"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-922.552" y="108.75">
+      <tspan x="-922.552" y="108.75"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-922.552" y="108.75">
+      <tspan x="-922.552" y="108.75"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #3d3d3d; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-739.466" y="140.341">
+      <tspan x="-739.466" y="140.341">PARSE</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-1177.4" y="41.29">
+      <tspan x="-1177.4" y="41.29"></tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-518.328" y="40" width="275.462" height="47.0412" rx="0" ry="0"/>
+      <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-380.597" y="67.4018">
+        <tspan x="-380.597" y="67.4018">PoliticalMashup Member Information</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #7ce4bb; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x="-285.548" y="93.4632" width="39.0359" height="30.4667" rx="0" ry="0"/>
+      <text font-size="6.77333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-266.03" y="110.75">
+        <tspan x="-266.03" y="110.75">.tsv</tspan>
+      </text>
+    </g>
+    <g>
+      <rect style="fill: #ffe674; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #2f2f2f" x="-518.708" y="93.285" width="228.5" height="30.4667" rx="0" ry="0"/>
+      <text font-size="6.77333" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-404.458" y="110.572">
+        <tspan x="-404.458" y="110.572">MEMBERSHIP | START | END | NAME | ROLE | PARTY</tspan>
+      </text>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-380.598" y="63.5206">
+      <tspan x="-380.598" y="63.5206"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="-917.728" y="174.947">
+      <tspan x="-917.728" y="174.947"></tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="-765.05" y1="63.7526" x2="-529.071" y2="63.6102"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-521.571,63.6057 -531.568,68.6117 -529.071,63.6102 -531.574,58.6117 "/>
+    </g>
+    <g>
+      <rect style="fill: #ffe5d3; fill-opacity: 1; stroke-opacity: 0; stroke-width: 2; stroke: #000000" x="-720" y="20" width="172" height="34.7" rx="0" ry="0"/>
+      <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="-634" y="40.4307">
+        <tspan x="-634" y="40.4307">Match by Name/Constituency</tspan>
+      </text>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="-1302.95" y1="63.8506" x2="-1046.16" y2="63.7562"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 2; stroke: #000000" fill-rule="evenodd" points="-1038.66,63.7534 -1048.66,68.7571 -1046.16,63.7562 -1048.66,58.7571 "/>
+    </g>
+  </g>
+</svg>
