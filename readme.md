@@ -14,3 +14,7 @@ I focus on parties, but because the Wikidata keys are present throughout the pro
 5. Flatten the ```.xml``` member data to ```.csv``` files (because ```.xml``` is horrible) (```s3_flatten_member_metadata.ipynb```)
 6. Enrich the district/constituency metadata in the Wikidata tables (```s5_enrich_memberships.ipynb```). Fuzzy string matching is used to match districts. I correct this manually afterwards. This step is necessary because I use the districts/constituencies as a way to match speakers and parties later.
 7. The final (not yet complete) step is to match all the enriched wikidata with the PoliticalMashup membership tags based on exact name matches, district and parliamentary dates matches and, if all else fails, fuzzy string matching. (```s6_add_party_to_memberships.ipynb```). As far as I can see the whole endeavour leads to 56% of the missing party data being found!
+
+
+
+![Alt text](https://github.com/rubenros1795/hansard/blob/master/diagram.svg)
